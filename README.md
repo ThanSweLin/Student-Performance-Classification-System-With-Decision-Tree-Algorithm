@@ -1,4 +1,4 @@
-# Student Performance In Exam With Decision Tree Algorithm (Python)
+# Student Performance Classification System With Decision Tree Algorithm
 
 Abstract
 
